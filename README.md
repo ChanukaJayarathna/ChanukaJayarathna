@@ -9,6 +9,7 @@ Since I'm (still) a full-time Software Engineer, I also like to share my code so
  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
 ### My stats
+![k](https://github.com/user-attachments/assets/75bdc594-14f5-40db-8243-622a49dc4c1e)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gnomezgrave&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnomezgrave&&exclude_repo=gnomezgrave&layout=compact&theme=dracula" alt="languages"/>

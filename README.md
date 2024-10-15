@@ -7,11 +7,21 @@ I am provide website building UI UX services, Web Flow development services , UX
 
  <img align="center" alt="Coding" width="450" src="https://github.com/ChanukaJayarathna/ChanukaJayarathna/blob/main/img/k.gif">
 
-### My stats
+ - 🌱 I’m currently learning **MERN**
+
+- 🧑‍🎓 I’m an Undergraduate at **Saegis Campus**
+
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **chanukalakshanjayarathna@gmail.com**
+  
+- ⚡ Fun fact **Work and relax**
+
+### My Statistics:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChanukaJayarathna&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanukaJayarathna&&exclude_repo=ChanukaJayarathna&layout=compact&theme=dracula" alt="languages"/>
 
-### Top Repositories
+### Top Repositories:
 
 * [Construction Services Web Site](https://github.com/ChanukaJayarathna/Group_Project_Saegis_Sem-2)
 

@@ -7,7 +7,7 @@ I am provide website building UI UX services, Web Flow development services , UX
 
  <img align="center" alt="Coding" width="450" src="https://github.com/ChanukaJayarathna/ChanukaJayarathna/blob/main/img/k.gif">
 
- - 🌱 I’m currently learning **MERN**
+ - 🌱 I’m working **MERN**
 
 - 🧑‍🎓 I’m an Undergraduate at **Saegis Campus**
 

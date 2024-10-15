@@ -1,10 +1,9 @@
-## Well, hello there 👋
+## Hello, Welcome to my GitHub profile. 👋
 
 ### Who am I?
 
-I'm a tech enthusiast who would like to explore new technologies, not just programming languages but also devices.
-I love to share knowledge with the rest of the world, and that's why I write a lot of articles, conduct courses, and make YouTube videos.
-Since I'm (still) a full-time Software Engineer, I also like to share my code so others can make use of them.
+I am a passionate committed  Product,graphic and UI  UX Designer and  Developer.<br>
+I am provide website building UI UX services, Web Flow development services , UX research, Cross-platform product develop (UX/UI), user testing, and front end development are among my areas of expertise.
 
  <img align="center" alt="Coding" width="450" src="https://github.com/ChanukaJayarathna/ChanukaJayarathna/blob/main/img/k.gif">
 

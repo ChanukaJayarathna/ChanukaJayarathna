@@ -6,7 +6,7 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 I love to share knowledge with the rest of the world, and that's why I write a lot of articles, conduct courses, and make YouTube videos.
 Since I'm (still) a full-time Software Engineer, I also like to share my code so others can make use of them.
 
- <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+ <img align="center" alt="Coding" width="450" src="https://github.com/user-attachments/assets/75bdc594-14f5-40db-8243-622a49dc4c1e">
 
 ### My stats
 ![k](https://github.com/user-attachments/assets/75bdc594-14f5-40db-8243-622a49dc4c1e)

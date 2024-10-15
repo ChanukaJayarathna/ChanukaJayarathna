@@ -6,7 +6,7 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 I love to share knowledge with the rest of the world, and that's why I write a lot of articles, conduct courses, and make YouTube videos.
 Since I'm (still) a full-time Software Engineer, I also like to share my code so others can make use of them.
 
- <img align="center" alt="Coding" width="450" src="https://github.com/user-attachments/assets/75bdc594-14f5-40db-8243-622a49dc4c1e">
+ <img align="center" alt="Coding" width="450" src="https://github.com/ChanukaJayarathna/ChanukaJayarathna/blob/main/k.gif">
 
 ### My stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChanukaJayarathna&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />

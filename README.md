@@ -14,12 +14,11 @@ Since I'm (still) a full-time Software Engineer, I also like to share my code so
 
 ### Top Repositories
 
-* [GCP Serverless Orchestrator](https://github.com/gnomezgrave/gcp-serverless-orchestrator)
+* [Construction Services Web Site](https://github.com/ChanukaJayarathna/Group_Project_Saegis_Sem-2)
 
 ### Wanna read my articles?
 
-* <img src="https://praneeth.gnomezgrave.com/assets/img/logo_profile.png" height="20"/>&nbsp; [Portfolio](https://praneeth.gnomezgrave.com/)
-* <img src="https://praneeth.gnomezgrave.com/assets/img/pages/gnomezgrave.png" height="20"/>&nbsp; [Personal Blog](https://gnomezgrave.com/)
+*
 
 ### Wanna connect with me?
 

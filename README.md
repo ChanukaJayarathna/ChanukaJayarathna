@@ -2,9 +2,14 @@
 
 ### Who am I?
 
-I am a passionate committed  Product,graphic and UI  UX Designer and  Developer.<br>
-I am provide website building UI UX services, Web Flow development services , UX research,<br> 
-Cross-platform product develop (UX/UI), user testing, and front end development are among my areas of expertise.
+✨As a passionate UI/UX designer, Experienced UI/UX designer skilled in crafting engaging digital experiences, I transform user needs into captivating digital experiences.✨
+
+✨I specialize in creating user-friendly digital experiences for web and mobile, blending design and functionality to solve real-world problems. Proficient in user research, wireframing, prototyping, and UI design. Passionate about creating intuitive interfaces that drive user satisfaction and business success.✨
+
+✨Beyond design, I’m always eager to learn new tools and techniques, keeping myself updated with industry trends to stay ahead in the fast-paced world of technology. I love finding clarity in complex problems. I thrive in ambiguity, transforming challenges into simple, user-focused solutions. ✨
+
+✨Let's bring your vision to life with creativity and flair and collaborate on your next project!
+If you are looking to solve any such problems, let’s talk! ✨
 
  <img align="center" alt="Coding" width="450" src="https://github.com/ChanukaJayarathna/ChanukaJayarathna/blob/main/img/k.gif">
 

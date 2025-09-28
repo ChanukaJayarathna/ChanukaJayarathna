@@ -31,6 +31,40 @@ If you are looking to solve any such problems, let’s talk! ✨
 
 * [Construction Services Web Site](https://github.com/ChanukaJayarathna/Group_Project_Saegis_Sem-2)
 
+### 🔐 How to Find Device Verification Codes?
+
+Need help finding that "Enter the code displayed on your device" prompt? Here's your comprehensive guide:
+
+#### **Common Scenarios:**
+- **📱 Two-Factor Authentication (2FA)**: Codes from authenticator apps
+- **🔗 Device Pairing**: TV streaming services, smart devices
+- **🔒 Account Recovery**: Security verification processes
+- **💻 App Authorization**: Linking mobile apps to desktop/web
+
+#### **Where to Find Your Code:**
+1. **📲 Authenticator Apps**: Google Authenticator, Microsoft Authenticator, Authy
+2. **📧 Email**: Check your inbox for verification emails
+3. **📱 SMS/Text Messages**: Look for recent text messages
+4. **🖥️ Screen Display**: Smart TVs, streaming devices, gaming consoles
+5. **🔔 Push Notifications**: Check your device notifications
+
+#### **Step-by-Step Guide:**
+✅ **Step 1**: Check which type of verification is requested  
+✅ **Step 2**: Open the appropriate app or check the correct location  
+✅ **Step 3**: Copy the 6-8 digit code (usually expires in 30-60 seconds)  
+✅ **Step 4**: Enter the code in the verification field  
+✅ **Step 5**: Complete the authentication process  
+
+#### **Pro Tips:**
+- 🕐 Codes are time-sensitive - use them quickly!
+- 🔄 If expired, request a new code
+- 📋 Don't share codes with anyone
+- 🔒 Keep backup codes in a secure location
+
+*Still need help? Feel free to reach out!*
+
+---
+
 ### Wanna read my articles?
 
 *

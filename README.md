@@ -37,7 +37,7 @@ If you are looking to solve any such problems, let’s talk! ✨
 
 ### How to Find Device Activation
 
-When working with GitHub and other development tools, you may need to activate your device for authentication. Here's how:
+When working with GitHub and other development tools, you may need to set up device authentication. Here's how to find and configure device activation for GitHub:
 
 #### GitHub CLI Device Activation
 1. Install GitHub CLI (`gh`) from [cli.github.com](https://cli.github.com/)

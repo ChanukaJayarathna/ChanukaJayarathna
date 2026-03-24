@@ -2,14 +2,11 @@
 
 ### Who am I?
 
-✨As a passionate UI/UX designer, Experienced UI/UX designer skilled in crafting engaging digital experiences, I transform user needs into captivating digital experiences.✨
+Software Engineering undergraduate at Saegis Campus with a strong focus on UI/UX, frontend development, and business-driven technical solutions. I build user-centered web, mobile, and desktop applications that are both functional and visually engaging.
 
-✨I specialize in creating user-friendly digital experiences for web and mobile, blending design and functionality to solve real-world problems. Proficient in user research, wireframing, prototyping, and UI design. Passionate about creating intuitive interfaces that drive user satisfaction and business success.✨
+Passionate about Technical Research & Development, I explore emerging technologies to create scalable, efficient, and impactful solutions. I aim to bridge the gap between business needs, design, and technology.
 
-✨Beyond design, I’m always eager to learn new tools and techniques, keeping myself updated with industry trends to stay ahead in the fast-paced world of technology. I love finding clarity in complex problems. I thrive in ambiguity, transforming challenges into simple, user-focused solutions. ✨
-
-✨Let's bring your vision to life with creativity and flair and collaborate on your next project!
-If you are looking to solve any such problems, let’s talk! ✨
+Open to opportunities, collaboration, and building real-world software that makes a difference.
 
  <img align="center" alt="Coding" width="450" src="https://github.com/ChanukaJayarathna/ChanukaJayarathna/blob/main/img/k.gif">
 

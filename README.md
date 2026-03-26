@@ -36,11 +36,6 @@ Open to opportunities, collaboration, and building real-world software that make
 <p align="left">
 
 <a href="https://linkedin.com/in/chanuka-jayarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanuka-jayarathna" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23175194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23175194" height="30" width="40" /></a>
-<a href="https://instagram.com/chanukajayarathna9124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chanukajayarathna9124" height="30" width="40" /></a>
-<a href="https://medium.com/@chanukajayarathna" target="blank"><img align="center" src="https://github.com/ChanukaJayarathna/ChanukaJayarathna/blob/main/img/me.png" alt="@chanukajayarathna" height="30" width="40" /></a>
- <a href="https://twitter.com/chanuka61837151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chanuka61837151" height="30" width="40" /></a>
- <a href="https://www.tiktok.com/@chanukajayarathna" target="blank"><img align="center" src="https://github.com/ChanukaJayarathna/ChanukaJayarathna/blob/main/img/Untitled%20design.png" alt="chanuka-jayarathna" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

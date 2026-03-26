@@ -10,11 +10,11 @@ Open to opportunities, collaboration, and building real-world software that make
 
  <img align="center" alt="Coding" width="450" src="https://github.com/ChanukaJayarathna/ChanukaJayarathna/blob/main/img/k.gif">
 
- - 🌱 I’m working **React,Angular,Bootstrap,Node**
+ - 🌱 I’m working **React,Angular,C#Asp.NET,PHP,Node/Express,MySQL,MongoDB**
 
 - 🧑‍🎓 I’m an Undergraduate at **Saegis Campus**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Technical Research & Development**
 
 - 📫 How to reach me **chanukalakshanjayarathna@gmail.com**
   

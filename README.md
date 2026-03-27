@@ -32,6 +32,36 @@ Open to opportunities, collaboration, and building real-world software that make
 
 *
 
+### How to Find Device Activation
+
+When working with GitHub and other development tools, you may need to set up device authentication. Here's how to find and configure device activation for GitHub:
+
+#### GitHub CLI Device Activation
+1. Install GitHub CLI (`gh`) from [cli.github.com](https://cli.github.com/)
+2. Run `gh auth login` in your terminal
+3. Select "Login with a web browser"
+4. Copy the one-time code provided
+5. Press Enter to open github.com in your browser
+6. Paste the code when prompted
+7. Authorize GitHub CLI to access your account
+
+#### SSH Key Authentication
+1. Generate an SSH key: `ssh-keygen -t ed25519 -C "your_email@example.com"`
+2. Start the SSH agent: `eval "$(ssh-agent -s)"`
+3. Add your SSH key: `ssh-add ~/.ssh/id_ed25519`
+4. Copy your public key: `cat ~/.ssh/id_ed25519.pub`
+5. Go to GitHub Settings → SSH and GPG keys → New SSH key
+6. Paste your key and save
+
+#### Personal Access Token
+1. Go to GitHub Settings → Developer settings → Personal access tokens → Tokens (classic)
+2. Click "Generate new token"
+3. Select the required scopes for your use case
+4. Generate and copy the token
+5. Use this token as your password when prompted
+
+For more information, visit [GitHub's authentication documentation](https://docs.github.com/en/authentication).
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 

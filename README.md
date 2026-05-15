@@ -2,13 +2,11 @@
 
 ### Who am I?
 
-Software Engineering undergraduate at Saegis Campus with a strong focus on UI/UX, frontend development, and business-driven technical solutions. I build user-centered web, mobile, and desktop applications that are both functional and visually engaging.
-
 Passionate about Technical Research & Development, I explore emerging technologies to create scalable, efficient, and impactful solutions. I aim to bridge the gap between business needs, design, and technology.
 
-Open to opportunities, collaboration, and building real-world software that makes a difference.
+Experienced in system architecture design, workflow analysis, and research-based solution development. I enjoy designing smart software structures, creating efficient system workflows, and developing innovative technology solutions that improve performance, usability, and real-world business operations.
 
- <img align="center" alt="Coding" width="450" src="https://github.com/ChanukaJayarathna/ChanukaJayarathna/blob/main/img/k.gif">
+Open to opportunities, collaboration, and building real-world software that makes a difference.
 
  - 🌱 I’m working **React, Angular, C#Asp.NET, PHP, Node/Express, MySQL, MongoDB**
 
